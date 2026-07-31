@@ -1,4 +1,4 @@
-Seed-UI for Angular4 
+H5 Seed UI
 ================
 This seed-ui uses a new tech stack and development process:
 - Angular 4, see http://angularjs.blogspot.com/2017/03/angular-400-now-available.html
